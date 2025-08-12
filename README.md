@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there! 👋 I'm Sai Ganesh Ambati
 🔭 I’m currently working on<br>• Enhancing CodeQuest with advanced user analytics and multi-platform integration.<br>• StartupBridge: Connecting innovative startups with smart investors to build the future together.<br><br>👯 Looking to collaborate on<br>• Full Stack projects using React, Node.js, Express, and MongoDB<br>• Tools that aid students and developers in learning, productivity, or collaboration<br>• Hackathons and open-source initiatives focused on education, productivity, or community<br><br>🌱 Currently learning<br>• TypeScript and advanced patterns in React and Zustand<br>• Real-time data handling with Socket.io and WebSockets<br><br>💬 Ask me about<br>• Building scalable MERN stack applications<br>• Competitive programming and DSA problem-solving.
 
 
